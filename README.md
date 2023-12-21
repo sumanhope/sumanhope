@@ -9,7 +9,7 @@ I am a passionate Flutter and UI/UX Developer hailing from Nepal. As a fresher i
 * 🌍  I'm based in Kathmandu, Nepal
 * 🖥️  See my portfolio at [Portfolio](http://sumanhope.github.io)
 * ✉️  You can contact me at [sumansthahope@gmail.com](mailto:sumansthahope@gmail.com)
-* 🚀  I'm currently working on [About Lamjung](http://github.com/sumanhope/about-lamjung)
+* 🚀  I'm currently working on [Room Rental App](https://github.com/sumanhope/room-rental-app)
 * 🧠  I'm learning Flutter and React
 * 🤝  I'm open to collaborating on Other Android Application
 
