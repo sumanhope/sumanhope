@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Suman Shrestha
 ======================================================================================================================================
 
-Flutter Developer
+Flutter && Backend Developer
 -----------------
 
 I am a passionate Flutter and UI/UX Developer hailing from Nepal. As a fresher in the industry, I have immersed myself in the world of Flutter for over a year, honing my skills and building innovative mobile applications.
@@ -9,9 +9,8 @@ I am a passionate Flutter and UI/UX Developer hailing from Nepal. As a fresher i
 * 🌍  I'm based in Kathmandu, Nepal
 * 🖥️  See my portfolio at [Portfolio](http://sumanhope.github.io)
 * ✉️  You can contact me at [sumansthahope@gmail.com](mailto:sumansthahope@gmail.com)
-* 🚀  I'm currently working on [Room Rental App](http://github.com/sumanhope/room-rental-app)
-* 🧠  I'm learning Flutter
-* 🤝  I'm open to collaborating on Other Android Application
+* 🚀  I'm currently working on some side projects.
+* 🤝  I'm open to collab on Android Application.
 
 ### Skills
 
